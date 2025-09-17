@@ -1,0 +1,53 @@
+[33mcommit 5354eae2b375b6b93323a86f7dbc626a25fe017d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:32:13 2025 +0700
+
+    add secret folder in app and updated .gitgnore file
+
+[33mcommit 33dd4404bc94f39b76698a72e0418a286028c75e[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:26:50 2025 +0700
+
+    add version2
+
+[33mcommit e99bfd2e16b38f00c3dffc2678ced9fa866534f6[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:26:13 2025 +0700
+
+    add helloworld2
+
+[33mcommit 367d36684337498ff21f6baabb9c22612a312d72[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:23:05 2025 +0700
+
+    add helloword version
+
+[33mcommit a6462d0a0831445a338307a8548991ac63122cac[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:20:50 2025 +0700
+
+    create main.py and config.py
+
+[33mcommit a47a18e6942c685b697597075edf31199602c549[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 14:04:45 2025 +0700
+
+    add .gitignor
+
+[33mcommit c2cdf0d0203390c6e076a567482a17d8578b4ed8[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 13:53:34 2025 +0700
+
+    updated git basic command add git status
+
+[33mcommit 705a644f2a6bd5f04e0bf1d4f4e26642047b954b[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 13:49:51 2025 +0700
+
+    updated git basic command
+
+[33mcommit 55f30a54d5f44443cd42543adfc62a06dbb6f198[m
+Author: Deklencom <deklencom6565@gmail.com>
+Date:   Tue Sep 16 13:48:11 2025 +0700
+
+    init project
